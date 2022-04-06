@@ -6,3 +6,5 @@
 Bejeweled game in sfml to test the library. Options can be altered in startingOptions.json, adding custom shapes can be added in ResourceList.cpp. 
 
 The game also checks if no moves are left.
+
+I also added a zip file with a folder with an executable to test the game itself. It works with win 32 systems.
