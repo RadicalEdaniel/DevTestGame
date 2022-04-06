@@ -1,7 +1,8 @@
 # DevTestGame for win64
 
-![image](https://user-images.githubusercontent.com/96058413/160489814-c281f3a6-acf8-47ae-a73b-d75906063d09.png)
+![image](https://user-images.githubusercontent.com/96058413/162043521-f7b436c0-3490-4ef4-8afb-4b9126322c9b.png)
+
 
 Bejeweled game in sfml. Options can be altered in startingOptions.json, adding custom shapes can be added in ResourceList.cpp. 
 
-The game checks if no moves are left.
+The game also checks if no moves are left.
