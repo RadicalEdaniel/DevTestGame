@@ -1,4 +1,4 @@
-# DevTestGame for win64
+# Match 3 game for win64
 
 ![image](https://user-images.githubusercontent.com/96058413/162043521-f7b436c0-3490-4ef4-8afb-4b9126322c9b.png)
 
